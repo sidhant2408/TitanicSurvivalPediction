@@ -33,7 +33,7 @@ In this project, two models have been used for the prediction of the survival of
 <br>
 <h3>Conclusion:</h3>
 <ul>
-  <li>Accuracy achieved for Decision Tree Classifier model  : <b>77.9</b>%</li>
-  <li>Accuracy achieved for Random Forest Classifier model  : <b>80.15</b>%</li>
+  <li>Accuracy achieved for Decision Tree Classifier model  : <b>78</b>%</li>
+  <li>Accuracy achieved for Random Forest Classifier model  : <b>80</b>%</li>
   <li>For this dataset, Random Forest model has better performance as compared to Decision Tree model.</li>
   </ul>
